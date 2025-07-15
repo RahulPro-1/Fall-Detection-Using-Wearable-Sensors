@@ -1,1 +1,1 @@
-# Fall-Detection-Using-Wearable-Sensors
+ML project for detection of fall
